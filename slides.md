@@ -395,6 +395,9 @@ Notes:
 ---
 
 ## Q&A
+https://rd3.now.sh
+
+https://github.com/tibotiber/rd3
 
 Notes:
 1. React vs Angular2?
