@@ -1,0 +1,39 @@
+.reveal section img {
+  border: none;
+  background: none;
+}
+
+.reveal ul {
+  list-style-type: circle;
+  margin-top: 1.2em;
+}
+
+.reveal ul ul {
+  list-style-type: inherit;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
+
+.reveal .slide-number {
+  background: none;
+  font-size: 0.4em;
+}
+
+.reveal .slide-number span {
+  color: #42affa;
+  opacity: 0.5;
+}
+
+.reveal pre {
+  font-size: 1em;
+}
+
+.reveal code {
+  font-size: 0.55em;
+  background: #3f3f3f;
+  color: #dcdcdc;
+  padding: 0.2em;
+  margin: 0.1em;
+  vertical-align: middle;
+  border-radius: 0.2em;
+}
